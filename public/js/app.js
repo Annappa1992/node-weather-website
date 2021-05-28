@@ -1,7 +1,7 @@
 const weatherForm = document.querySelector("form");
 const search = document.querySelector("input");
 const messageOne = document.querySelector("#message-1"); //error
-const messageTwo = document.querySelector("#message-2"); //other messages
+const messageTwo = document.querySelector("#message-2"); //other changes
 
 // messageOne.textContent = "From JavaScript 1";
 // messageTwo.textContent = "From JavaScript 2";
